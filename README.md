@@ -1,2 +1,2 @@
-# CODSOFT
-These are the projects I made during the CODSOFT Internship.
+# CODSOFT_Task_1
+Project Name: Number Game
